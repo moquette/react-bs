@@ -1,4 +1,8 @@
 .header {
+  .navbar {
+    height: var(--header-height);
+  }
+
   .navbar-brand {
     font-weight: 900;
   }
@@ -9,7 +13,4 @@
 
   @media (max-width: 768px) {
   }
-
 }
-
-
