@@ -9,7 +9,7 @@ function App() {
     <>
       <Header />
       <main className="main">
-        <Logo title="Logo" />
+        <Logo className="logo" title="Logo" />
       </main>
       <Footer />
     </>
