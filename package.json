@@ -36,32 +36,33 @@
     ]
   },
   "dependencies": {
-    "@popperjs/core": "^2.9.2",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^13.1.1",
-    "bootstrap": "^5.0.0-beta3",
-    "bootstrap-icons": "^1.4.1",
-    "eslint-plugin-cypress": "^2.11.2",
-    "gh-pages": "^3.1.0",
-    "node-sass": "^5.0.0",
+    "@popperjs/core": "^2.9.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "babel-eslint": "^10.1.0",
+    "bootstrap": "^5.1.0",
+    "bootstrap-icons": "^1.5.0",
+    "eslint-plugin-cypress": "^2.11.3",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "sass": "^1.37.5",
+    "web-vitals": "^2.1.0"
   },
   "devDependencies": {
-    "eslint": "^7.23.0",
+    "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-compat": "^3.9.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-compat": "^3.11.1",
+    "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.23.1",
-    "husky": "^6.0.0",
-    "lint-staged": "^10.5.4",
-    "prettier": "^2.2.1"
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.1",
+    "prettier": "^2.3.2"
   },
   "eslintConfig": {
     "extends": [
